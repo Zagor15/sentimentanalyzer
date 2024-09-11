@@ -9,7 +9,7 @@ There is two versions:
 
 - sentimentweb which allows the user to submit an url. The text of the webpage will be wrapped using BeautifulSoup and then analyzed like in sentiment.py. Sentimentweb will wrap the whole page text and not just the article or blog paper, so it can reduce the precision of the analysis.
 
-## Disclamer : 
+## Disclaimer : 
 
 Use only sentimentweb on website autorizing wrapping
 
